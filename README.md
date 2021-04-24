@@ -17,7 +17,9 @@ I have implemented `N-gram model` and `Character Buffer model`. The first takes 
 
 The data used for this has been acquired from various resources - Kaggle, towardsdatascience, github, research papers, etc.
 The data has been amalgamated with respect to "Domain", that is I have with me data from <b>Twitter, News, Novels, Psychological Therapy chats and more</b>.
+<br>
 -> The preprocessed data can be accessed from : https://drive.google.com/drive/folders/1dzuAlNlLB4YT66sfZnxLF1aqa_sW5mWz?usp=sharing
+<br>
 -> As for the unprocessed data, you can contact me at : siddp278@gmail.com
 
 ## The Motive:
